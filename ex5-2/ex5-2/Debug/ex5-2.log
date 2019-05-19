@@ -1,0 +1,4 @@
+﻿  ex52.cpp
+c:\users\paral\documents\homework\homework\ex5-2\ex5-2\ex52.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  ex5-2.vcxproj -> C:\Users\paral\Documents\homework\homework\ex5-2\Debug\ex5-2.exe
+  ex5-2.vcxproj -> C:\Users\paral\Documents\homework\homework\ex5-2\Debug\ex5-2.pdb (Partial PDB)

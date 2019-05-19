@@ -1,0 +1,7 @@
+﻿  list58.cpp
+c:\users\paral\documents\homework\homework\list5-8\list5-8\list58.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\paral\documents\homework\homework\list5-8\list5-8\list58.cpp(4): warning C4603: “_CRT_SECURE_NO_WARNINGS”: 未定义宏或在预编译头使用后定义发生改变
+  c:\users\paral\documents\homework\homework\list5-8\list5-8\list58.cpp(4): note: 将宏添加到预编译头中，而不是在此处定义
+  c:\users\paral\documents\homework\homework\list5-8\list5-8\list58.cpp(8): note: 使用预编译头
+  list5-8.vcxproj -> C:\Users\paral\Documents\homework\homework\list5-8\Debug\list5-8.exe
+  list5-8.vcxproj -> C:\Users\paral\Documents\homework\homework\list5-8\Debug\list5-8.pdb (Partial PDB)

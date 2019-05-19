@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+c:\users\paral\documents\homework\homework\ex5-3\ex5-3\stdafx.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\paral\documents\homework\homework\ex5-3\ex5-3\stdafx.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\paral\documents\homework\homework\ex5-3\ex5-3\targetver.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  ex53.cpp
+c:\users\paral\documents\homework\homework\ex5-3\ex5-3\ex53.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  ex5-3.vcxproj -> C:\Users\paral\Documents\homework\homework\ex5-3\Debug\ex5-3.exe
+  ex5-3.vcxproj -> C:\Users\paral\Documents\homework\homework\ex5-3\Debug\ex5-3.pdb (Partial PDB)
