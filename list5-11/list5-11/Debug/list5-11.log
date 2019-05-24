@@ -1,0 +1,4 @@
+﻿  list511.cpp
+c:\users\paral\documents\homework\homework\list5-11\list5-11\list511.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  list5-11.vcxproj -> C:\Users\paral\Documents\homework\homework\list5-11\Debug\list5-11.exe
+  list5-11.vcxproj -> C:\Users\paral\Documents\homework\homework\list5-11\Debug\list5-11.pdb (Partial PDB)

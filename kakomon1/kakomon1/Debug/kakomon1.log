@@ -1,0 +1,11 @@
+﻿  kakomon1.cpp
+c:\users\paral\documents\homework\homework\kakomon1\kakomon1\kakomon1.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\paral\documents\homework\homework\kakomon1\kakomon1\kakomon1.cpp(3): warning C4603: “_CRT_SECURE_NO_WARNINGS”: 未定义宏或在预编译头使用后定义发生改变
+  c:\users\paral\documents\homework\homework\kakomon1\kakomon1\kakomon1.cpp(3): note: 将宏添加到预编译头中，而不是在此处定义
+  c:\users\paral\documents\homework\homework\kakomon1\kakomon1\kakomon1.cpp(6): note: 使用预编译头
+c:\users\paral\documents\homework\homework\kakomon1\kakomon1\kakomon1.cpp(12): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 参见“scanf”的声明
+c:\users\paral\documents\homework\homework\kakomon1\kakomon1\kakomon1.cpp(13): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 参见“scanf”的声明
+c:\users\paral\documents\homework\homework\kakomon1\kakomon1\kakomon1.cpp(14): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 参见“scanf”的声明

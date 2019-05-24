@@ -1,0 +1,12 @@
+﻿  stdafx.cpp
+c:\users\paral\documents\homework\homework\list5-12\list5-12\stdafx.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\paral\documents\homework\homework\list5-12\list5-12\stdafx.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\paral\documents\homework\homework\list5-12\list5-12\targetver.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  list512.cpp
+c:\users\paral\documents\homework\homework\list5-12\list5-12\list512.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\paral\documents\homework\homework\list5-12\list5-12\list512.cpp(17): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 参见“scanf”的声明
+c:\users\paral\documents\homework\homework\list5-12\list5-12\list512.cpp(27): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 参见“scanf”的声明
+  list5-12.vcxproj -> C:\Users\paral\Documents\homework\homework\list5-12\Debug\list5-12.exe
+  list5-12.vcxproj -> C:\Users\paral\Documents\homework\homework\list5-12\Debug\list5-12.pdb (Partial PDB)
