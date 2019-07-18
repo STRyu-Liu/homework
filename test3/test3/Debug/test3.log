@@ -1,0 +1,4 @@
+﻿  test3.cpp
+c:\users\paral\documents\homework\homework\test3\test3\test3.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  test3.vcxproj -> C:\Users\paral\Documents\homework\homework\test3\Debug\test3.exe
+  test3.vcxproj -> C:\Users\paral\Documents\homework\homework\test3\Debug\test3.pdb (Partial PDB)

@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+c:\users\paral\documents\homework\homework\list10-6\list10-6\stdafx.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\paral\documents\homework\homework\list10-6\list10-6\stdafx.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\paral\documents\homework\homework\list10-6\list10-6\targetver.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  list106.cpp
+c:\users\paral\documents\homework\homework\list10-6\list10-6\list106.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  list10-6.vcxproj -> C:\Users\paral\Documents\homework\homework\list10-6\Debug\list10-6.exe
+  list10-6.vcxproj -> C:\Users\paral\Documents\homework\homework\list10-6\Debug\list10-6.pdb (Partial PDB)
